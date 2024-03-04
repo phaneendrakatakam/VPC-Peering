@@ -1,7 +1,9 @@
 # Creating-an-EC2-Instance
 
 Task Description: Create 2 Virtual networks and subnets in each along with VM’s in 2 different regions and try to ping the VM’s.
+
 Here I’m using AWS cloud for my task
+
 Step1: Create 2 different VPCs in 2 different locations
 
 ![image](https://github.com/phaneendrakatakam/Creating-an-EC2-Instance/assets/145963393/64c8ac36-eaa2-490d-a7a7-fa6b5d20f72c)
