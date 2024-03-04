@@ -1,4 +1,4 @@
-# Creating-an-EC2-Instance
+# VPC Peering
 
 Task Description: Create 2 Virtual networks and subnets in each along with VM’s in 2 different regions and try to ping the VM’s.
 
